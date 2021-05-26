@@ -27,7 +27,7 @@
 
 24:00:00
 
-<img src = "every%20statement.png">
+<img src = "everystatement.png">
 
 ### Тест случаи според критериумот Every path
 
