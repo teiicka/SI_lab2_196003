@@ -48,4 +48,4 @@
 ### Објаснување на напишаните unit tests
 
 За Every statement ги проверував и ги поминуваат сите statements и некои се со exceptions па затоа во кодот ги направив со try catch блок а некои се само со assertEquals
-За Every path ги проверив и ги поминав сите paths и исто така повеќето се со excepotions а 2 со Equals
+За Every path ги проверив и ги поминав сите paths и исто така повеќето се со exceptions а 2 со Equals
